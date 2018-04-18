@@ -19,11 +19,11 @@ You will need web browser
 
 Installing
 Clone the project to your local directory and follow the below instructions :  
-Question 1: HSV.js
+Question 1: color.js
 
-Question 2: game.js
+Question 2: tiatactoe.html
 
-Question 3: gamewithcomputer.js
+Question 3: tiatactoecomputer.html
 
 Note*: Answer for question 4 is attached in a document.
 
